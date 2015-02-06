@@ -1,6 +1,6 @@
 %define name	cdi2iso
 %define version	0.1
-%define release	%mkrel 9
+%define release	10
 
 Name:		%{name}
 Version:	%{version}
