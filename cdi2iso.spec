@@ -7,7 +7,7 @@ Version:	%{version}
 Release:	%{release}
 Summary:	Convert DiskJuggler CD Images to ISO
 Source:		%{name}-%{version}.tar.bz2
-URL:		http://developer.berlios.de/projects/cdi2iso/
+URL:		https://developer.berlios.de/projects/cdi2iso/
 License:	GPL
 Group:		Archiving/Other
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
